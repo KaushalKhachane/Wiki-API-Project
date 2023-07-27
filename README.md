@@ -1,11 +1,6 @@
 # Wiki-API-Project
 RESTful API &amp; MongoDB - This repository showcases a Node.js backend with Mongoose, implementing a RESTful API for a blogging app. Using Postman for easy testing, focus on mastering REST principles and MongoDB integration. Simplify backend development! #RESTfulAPI #NodeJS #Mongoose #MongoDB #Postman
 
-
-# MongoDB Blogging App
-
-![MongoDB Blogging App](link_to_your_app_screenshot_or_logo.png)
-
 ## Overview
 
 The MongoDB Blogging App is a simple web application built using Node.js and Express.js with MongoDB integration. It provides RESTful API endpoints for managing blog articles, allowing users to create, read, update, and delete articles effortlessly.

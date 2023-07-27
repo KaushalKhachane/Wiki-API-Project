@@ -43,12 +43,8 @@ The MongoDB Blogging App is a simple web application built using Node.js and Exp
 
 Contributions are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
 
-## License
-
-[MIT License](link_to_your_license_file)
-
 ## Contact
 
-For any questions or inquiries, feel free to reach out to [your_email@example.com].
+For any questions or inquiries, feel free to reach out to [khachaneks22@gmail.com].
 
 Happy blogging! 🚀

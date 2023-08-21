@@ -1,10 +1,13 @@
 {
   "name": "wiki",
+  "homepage": "https://kaushalkhachane.github.io/Wiki-API-Project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
